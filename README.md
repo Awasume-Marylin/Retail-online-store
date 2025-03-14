@@ -1,11 +1,21 @@
 # Retail-online-store
 This dataset looks at the different products sold in different countries by an online retail store.
 
+### Table of Content
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Results](#results)
+- [Recommendation](#recommendation)
+- [Limitations](#limitations)
+
 ### Project Overview
 
 This project aims at gaining insights on why the retail store is doing well so they can implement what they are persently doing in the coming year. So we need to analysis this data to make data driven decision and recommendations.
 
-![alt](
+![alt](https://github.com/Awasume-Marylin/Retail-online-store/blob/9a55416114911c519c04423bf40ac3c20986f1d5/charts/Revenue_data_for_2011.png)
 
 ### Data Sources
 
